@@ -243,7 +243,7 @@ export default function RegisterExperience() {
               </motion.a>
 
               <motion.a 
-                href="https://youtu.be/yTmhd7xOcTk"
+                href="https://youtu.be/Dz67O1JWYTg"
                 whileHover={{ 
                   scale: 1.05, 
                   borderColor: "rgba(255, 255, 255, 0.8)", 
