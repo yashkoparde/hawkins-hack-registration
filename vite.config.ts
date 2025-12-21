@@ -14,11 +14,6 @@ export default defineConfig(({ mode }) => {
       port: 3000,
       host: '0.0.0.0',
     },
-
-    define: {
-      __GEMINI_API_KEY__: JSON.stringify(env.GEMINI_API_KEY),
-    },
-
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
