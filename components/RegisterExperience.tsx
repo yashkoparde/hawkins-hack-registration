@@ -224,6 +224,8 @@ export default function RegisterExperience() {
             <div className="flex flex-col md:flex-row gap-5 md:gap-12 items-center w-full justify-center">
               <motion.a 
                 href="https://yashkoparde.github.io/vtuhawkinshack/"
+                target="_blank"
+                rel="noopener noreferrer"
                 whileHover={{ 
                   scale: 1.08, 
                   backgroundColor: "rgba(220, 38, 38, 1)", 
@@ -244,6 +246,8 @@ export default function RegisterExperience() {
 
               <motion.a 
                 href="https://youtu.be/Dz67O1JWYTg"
+                target="_blank"
+                rel="noopener noreferrer"
                 whileHover={{ 
                   scale: 1.05, 
                   borderColor: "rgba(255, 255, 255, 0.8)", 
